@@ -1,7 +1,3 @@
-# Karakteristik-dan-Distribusi-Bencana-Kota-Batu-Tahun-2021-2023
-
----
-
 # 📊 Dataset dan Analisis Bencana Kota Batu (2021-2023)
 
 **Sumber Data**: BPBD Kota Batu  
